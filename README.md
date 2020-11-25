@@ -2,7 +2,8 @@
 
 This repo pulls job listings from the [AEA JOE site](https://www.aeaweb.org/joe/listings). For PhD economists, this is our job market. Before running the R script in this repo, note:
 
-1. You must first confirm the download link
+1. You must first confirm the download link. To get the link, click the "Native XLS" download option, and note the resulting url:
+![note the url](https://github.com/michael-black/aea-joe-job-pulling/blob/main/download_screenshot.png)
 
 2. Run the script for the first time by uncommenting line 24:
 ```R
